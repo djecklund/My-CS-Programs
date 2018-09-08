@@ -1,0 +1,10 @@
+C:\Users\Dillon\Desktop\My C# programs\CollatzConjecture\CollatzConjecture\bin\Debug\CollatzConjecture.exe.config
+C:\Users\Dillon\Desktop\My C# programs\CollatzConjecture\CollatzConjecture\bin\Debug\CollatzConjecture.exe
+C:\Users\Dillon\Desktop\My C# programs\CollatzConjecture\CollatzConjecture\bin\Debug\CollatzConjecture.pdb
+C:\Users\Dillon\Desktop\My C# programs\CollatzConjecture\CollatzConjecture\obj\Debug\CollatzConjecture.csprojAssemblyReference.cache
+C:\Users\Dillon\Desktop\My C# programs\CollatzConjecture\CollatzConjecture\obj\Debug\CollatzConjecture.Form1.resources
+C:\Users\Dillon\Desktop\My C# programs\CollatzConjecture\CollatzConjecture\obj\Debug\CollatzConjecture.Properties.Resources.resources
+C:\Users\Dillon\Desktop\My C# programs\CollatzConjecture\CollatzConjecture\obj\Debug\CollatzConjecture.csproj.GenerateResource.cache
+C:\Users\Dillon\Desktop\My C# programs\CollatzConjecture\CollatzConjecture\obj\Debug\CollatzConjecture.csproj.CoreCompileInputs.cache
+C:\Users\Dillon\Desktop\My C# programs\CollatzConjecture\CollatzConjecture\obj\Debug\CollatzConjecture.exe
+C:\Users\Dillon\Desktop\My C# programs\CollatzConjecture\CollatzConjecture\obj\Debug\CollatzConjecture.pdb
