@@ -1,0 +1,11 @@
+C:\Users\Dillon\Desktop\My C# programs\FizzBuzzProgram\FizzBuzzProgram\bin\Debug\netcoreapp2.1\FizzBuzzProgram.deps.json
+C:\Users\Dillon\Desktop\My C# programs\FizzBuzzProgram\FizzBuzzProgram\bin\Debug\netcoreapp2.1\FizzBuzzProgram.runtimeconfig.json
+C:\Users\Dillon\Desktop\My C# programs\FizzBuzzProgram\FizzBuzzProgram\bin\Debug\netcoreapp2.1\FizzBuzzProgram.runtimeconfig.dev.json
+C:\Users\Dillon\Desktop\My C# programs\FizzBuzzProgram\FizzBuzzProgram\bin\Debug\netcoreapp2.1\FizzBuzzProgram.dll
+C:\Users\Dillon\Desktop\My C# programs\FizzBuzzProgram\FizzBuzzProgram\bin\Debug\netcoreapp2.1\FizzBuzzProgram.pdb
+C:\Users\Dillon\Desktop\My C# programs\FizzBuzzProgram\FizzBuzzProgram\obj\Debug\netcoreapp2.1\FizzBuzzProgram.csprojAssemblyReference.cache
+C:\Users\Dillon\Desktop\My C# programs\FizzBuzzProgram\FizzBuzzProgram\obj\Debug\netcoreapp2.1\FizzBuzzProgram.csproj.CoreCompileInputs.cache
+C:\Users\Dillon\Desktop\My C# programs\FizzBuzzProgram\FizzBuzzProgram\obj\Debug\netcoreapp2.1\FizzBuzzProgram.AssemblyInfoInputs.cache
+C:\Users\Dillon\Desktop\My C# programs\FizzBuzzProgram\FizzBuzzProgram\obj\Debug\netcoreapp2.1\FizzBuzzProgram.AssemblyInfo.cs
+C:\Users\Dillon\Desktop\My C# programs\FizzBuzzProgram\FizzBuzzProgram\obj\Debug\netcoreapp2.1\FizzBuzzProgram.dll
+C:\Users\Dillon\Desktop\My C# programs\FizzBuzzProgram\FizzBuzzProgram\obj\Debug\netcoreapp2.1\FizzBuzzProgram.pdb
